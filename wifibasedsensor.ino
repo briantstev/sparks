@@ -9,8 +9,8 @@
 // Server Address
 
 char server[] = "https://spark-backend.herokuapp.com/";
-char ssid[] = "LayerCake";         // SSID
-char pass[] = "t1r4m1su";  // Password
+char ssid[] = "INPUT YOUR SSID HERE";         // SSID
+char pass[] = "INPUT YOUR SSID PASS HERE";  // Password
 String data;
 bool flagstatus = false;
 
